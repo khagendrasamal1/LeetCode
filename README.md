@@ -3,7 +3,6 @@
 Welcome to my LeetCode Solutions repository! This repository contains all my solutions for various LeetCode problems. I have been actively solving problems on LeetCode, and this is where I store my code for reference and learning.
 
 ## 🌟 Achievements
-I have recently unlocked a badge for using LeetCode for 50 days! 🎉
 
 <img src="./50daysbadgeleetcode.png" alt="50-Day LeetCode Badge" width="200"/>
 
