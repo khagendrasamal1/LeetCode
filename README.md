@@ -5,7 +5,7 @@ Welcome to my LeetCode Solutions repository! This repository contains all my sol
 ## 🌟 Achievements
 I have recently unlocked a badge for using LeetCode for 50 days! 🎉
 
-![50-Day Badge](./50 days-leetcode badge.png)
+![50-Day Badge](50daysbadgeleetcode)
 
 ## 📚 Solutions
 This repository includes solutions for problems categorized by difficulty:
