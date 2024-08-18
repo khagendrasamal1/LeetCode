@@ -2,6 +2,10 @@ class Solution {
     public int maxProduct(int[] nums) {
         if (nums == null || nums.length == 0) return 0;
 
+        if (nums == null || nums.length == 0) {
+            return 0;
+        }
+
         int maxProduct = nums[0];
         int minProduct = nums[0];
         int globalMaxProduct = nums[0];
@@ -9,11 +13,14 @@ class Solution {
         for (int i = 1; i < nums.length; i++) {
             int currentNum = nums[i];
 
-            int tempMax = Math.max(currentNum, Math.max(maxProduct * currentNum, minProduct * currentNum));
-            int tempMin = Math.min(currentNum, Math.min(maxProduct * currentNum, minProduct * currentNum));
+            if (currentNum < 0) {
+                int temp = maxProduct;
+                maxProduct = minProduct;
+                minProduct = temp;
+            }
 
-            maxProduct = tempMax;
-            minProduct = tempMin;
+            maxProduct = Math.max(currentNum, maxProduct * currentNum);
+            minProduct = Math.min(currentNum, minProduct * currentNum);
 
             globalMaxProduct = Math.max(globalMaxProduct, maxProduct);
         }
