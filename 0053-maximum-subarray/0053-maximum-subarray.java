@@ -3,17 +3,17 @@ class Solution {
         int max = Integer.MIN_VALUE;
         int sum = 0;
 
-        for(int num : nums){
-            sum += num;
+        for(int i=0; i<nums.length; i++){
+            sum += nums[i];
 
             if(sum > max){
-                max = sum;
-            }
-
-            if(sum <0){
-                sum = 0;
-            }
+            max = sum;
         }
+        if(sum < 0){
+            sum = 0;
+        }
+        }
+        
         return max;
     }
 }
