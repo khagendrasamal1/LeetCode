@@ -3,10 +3,9 @@
 
 public class Solution extends VersionControl {
     public int firstBadVersion(int n) {
-        int low = 1;
-        int high = n;
+        int low=0, high=n;
         int mid;
-        int ans = n;
+        int ans = 0;
 
         while(low<=high){
             mid = low + (high-low)/2;
