@@ -2,10 +2,6 @@ class Solution {
     public int maxProduct(int[] nums) {
         if (nums == null || nums.length == 0) return 0;
 
-        if (nums == null || nums.length == 0) {
-            return 0;
-        }
-
         int maxProduct = nums[0];
         int minProduct = nums[0];
         int globalMaxProduct = nums[0];
