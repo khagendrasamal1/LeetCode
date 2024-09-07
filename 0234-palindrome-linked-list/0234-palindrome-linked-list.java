@@ -9,46 +9,46 @@
  * }
  */
 class Solution {
+    ListNode reverse(ListNode node){
+        ListNode prev = null;
+        ListNode current = node;
+        ListNode next = null;
 
-    public ListNode reverseHalf(ListNode head){
-        if(head == null || head.next == null){
-            return head;
+        while (current != null) {
+            next = current.next;  
+            current.next = prev; 
+            prev = current;
+            current = next;     
         }
-
-        ListNode newHead = reverseHalf(head.next);
-        head.next.next = head;
-        head.next = null;
-
-        return newHead;
-    }
-
-    public ListNode findMiddle(ListNode head){
-        ListNode hare = head;
-        ListNode turtle = head;
-
-        while(hare.next != null && hare.next.next != null){
-            hare = hare.next.next;
-            turtle = turtle.next;
-        }
-        return turtle;
+        return prev;   
     }
 
     public boolean isPalindrome(ListNode head) {
-        if(head == null || head.next == null){
+        if (head == null || head.next == null) {
             return true;
         }
 
-        ListNode middle = findMiddle(head); // we will get 1st half end
-        ListNode secondHalfStart = reverseHalf(middle.next);
+        ListNode slow = head;
+        ListNode fast = head;
 
-        ListNode firstHalfStart = head;
-        while(secondHalfStart != null){
-            if(firstHalfStart.val != secondHalfStart.val){
+        while (fast != null && fast.next != null) {
+            slow = slow.next;
+            fast = fast.next.next;
+        }
+
+        ListNode newHead = reverse(slow);
+
+        ListNode first = head;
+        ListNode second = newHead;
+
+        while (second != null) {  
+            if (first.val != second.val) {
                 return false;
             }
-            firstHalfStart = firstHalfStart.next;
-            secondHalfStart = secondHalfStart.next;
+            first = first.next;
+            second = second.next;
         }
+
         return true;
     }
 }
