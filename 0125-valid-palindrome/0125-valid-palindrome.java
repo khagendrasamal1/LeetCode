@@ -1,18 +1,19 @@
 class Solution {
     public boolean isPalindrome(String s) {
-        StringBuilder str = new StringBuilder();
+        
+        StringBuilder string = new StringBuilder();
 
         for(char c : s.toCharArray()){
             if(Character.isLetterOrDigit(c)){
-                str.append(Character.toLowerCase(c));
+                string.append(Character.toLowerCase(c));
             }
         }
 
         int i = 0;
-        int j = str.length()-1;
+        int j = string.length()-1;
 
         while(i < j){
-            if(str.charAt(i) != str.charAt(j)){
+            if(string.charAt(j) != string.charAt(i)){
                 return false;
             }
             i++;
