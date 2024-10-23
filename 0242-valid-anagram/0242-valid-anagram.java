@@ -4,30 +4,30 @@ class Solution {
             return false;
         }
 
+        int arr[] = new int[26];
+
         int n = s.length();
 
-        int freq[] = new int[26];
+        int indA = 0;
+        int indB = 0;
 
-        int indexA = 0;
-        int indexB = 0;
+        while(indA < n && indB < n){
+            char a = s.charAt(indA);
+            int freqA = a-97;
 
-        while(indexA < n && indexB < n){
-            char charA = s.charAt(indexA);
-            int freqIndexA = charA - 'a';
+            arr[freqA] += 1;
 
-            freq[freqIndexA] += 1;
+            char b = t.charAt(indB);
+            int freqB = b-97;
 
-            char charB = t.charAt(indexB);
-            int freqIndexB = charB - 'a';
+            arr[freqB] -= 1;
 
-            freq[freqIndexB] -= 1;
-
-            indexA++;
-            indexB++;
+            indA++;
+            indB++;
         }
 
-        for(int i=0; i<26; i++){
-            if(freq[i] != 0){
+        for(int i=0; i<arr.length; i++){
+            if(arr[i] != 0){
                 return false;
             }
         }
