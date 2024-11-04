@@ -1,26 +1,18 @@
 class Solution {
     public int maxProduct(int[] nums) {
-        if (nums == null || nums.length == 0) return 0;
+        int prefix = 1;
+        int suffix = 1;
+        int max = Integer.MIN_VALUE;
 
-        int maxProduct = nums[0];
-        int minProduct = nums[0];
-        int globalMaxProduct = nums[0];
+        for(int i=0; i<nums.length; i++){
+            if(prefix == 0) prefix = 1;
+            if(suffix == 0) suffix = 1;
 
-        for (int i = 1; i < nums.length; i++) {
-            int currentNum = nums[i];
+            prefix *= nums[i];
+            suffix *= nums[nums.length - i -1];
 
-            if (currentNum < 0) {
-                int temp = maxProduct;
-                maxProduct = minProduct;
-                minProduct = temp;
-            }
-
-            maxProduct = Math.max(currentNum, maxProduct * currentNum);
-            minProduct = Math.min(currentNum, minProduct * currentNum);
-
-            globalMaxProduct = Math.max(globalMaxProduct, maxProduct);
+            max = Math.max(max, Math.max(prefix, suffix));
         }
-
-        return globalMaxProduct;
+        return max;
     }
 }
