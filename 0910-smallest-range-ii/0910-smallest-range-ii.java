@@ -10,9 +10,7 @@ class Solution {
             int l = Math.max(nums[n-1]-k, nums[i]+k);
             int s = Math.min(nums[0]+k, nums[i+1]-k);
 
-            if(s >= 0){
-                ans = Math.min(ans, l-s);
-            }
+            ans = Math.min(ans, l-s);
         }
         return ans;
     }
