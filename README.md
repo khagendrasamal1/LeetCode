@@ -4,8 +4,10 @@ Welcome to my LeetCode Solutions repository! This repository contains all my sol
 
 ## 🌟 Achievements
 
-<img src="./50daysbadgeleetcode.png" alt="50-Day LeetCode Badge" width="200"/>
-<img src="./100 days leetcode.png" alt="100-Day LeetCode Badge" width="200"/>
+<div style="display: flex; gap: 10px; align-items: center;">
+  <img src="./50daysbadgeleetcode.png" alt="50-Day LeetCode Badge" width="200"/>
+  <img src="./100 days leetcode.png" alt="100-Day LeetCode Badge" width="200"/>
+</div>
 
 ## 📚 Solutions
 This repository includes solutions for problems categorized by difficulty:
