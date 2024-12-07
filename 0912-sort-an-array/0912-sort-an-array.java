@@ -1,41 +1,50 @@
 class Solution {
-
-    public static void swap(int arr[], int i, int j){
-        int temp=arr[i];
-        arr[i]=arr[j];
-        arr[j]=temp;
-    }
-
-    public static int partition(int arr[], int low, int high){
-        int pivotIndex = low + (int) (Math.random() * (high - low + 1));
-        swap(arr, pivotIndex, high);
-        
-        int pivot = arr[high];
-        int i = low-1;
-
-        for(int j=low; j<high; j++){
-            if(arr[j]<pivot){
-                i++;
-                swap(arr, i, j);
-            }
-        }
-        i++;
-        swap(arr, i, high);
-        return i;
-    }
-
-    public static void quickSort(int arr[], int low, int high){
-        if(low<high){
-            int pivotIdx = partition(arr, low, high);
-
-            quickSort(arr, low, pivotIdx-1);
-            quickSort(arr, pivotIdx+1, high);
-        }
-    }
     public int[] sortArray(int[] nums) {
         int n = nums.length;
-        quickSort(nums, 0, n-1);
 
-        return nums;
+        if (n < 2) {
+            return nums;
+        }
+
+        int mid = n / 2;
+        int[] left = new int[mid];
+        int[] right = new int[n - mid];
+
+        for (int i = 0; i < mid; i++) {
+            left[i] = nums[i];
+        }
+
+        for (int i = mid; i < n; i++) {
+            right[i - mid] = nums[i];
+        }
+ 
+        left = sortArray(left);
+        right = sortArray(right);
+
+        return merge(left, right);
+    }
+
+    private int[] merge(int[] left, int[] right) {
+        int l = left.length, r = right.length;
+        int[] merged = new int[l + r];
+        int i = 0, j = 0, k = 0;
+
+        while (i < l && j < r) {
+            if (left[i] <= right[j]) {
+                merged[k++] = left[i++];
+            } else {
+                merged[k++] = right[j++];
+            }
+        }
+
+        while (i < l) {
+            merged[k++] = left[i++];
+        }
+        
+        while (j < r) {
+            merged[k++] = right[j++];
+        }
+
+        return merged;
     }
 }
