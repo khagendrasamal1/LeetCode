@@ -2,35 +2,28 @@ class Solution {
     public int maxSubarraySumCircular(int[] nums) {
         int n = nums.length;
 
-        int maxElement = nums[0];
+        // Step 1: Calculate non-circular max subarray sum using Kadane's algorithm
+        int maxSum = nums[0], currMax = 0;
+        int totalSum = 0; // To store the sum of all elements
+        int minSum = nums[0], currMin = 0; // To find the minimum subarray sum
+
         for (int num : nums) {
-            maxElement = Math.max(maxElement, num);
-        }
-        if (maxElement < 0) {
-            return maxElement; // All elements are negative
-        }
+            currMax = Math.max(num, currMax + num);
+            maxSum = Math.max(maxSum, currMax);
 
-        int[] temp = new int[n];
-        int curr = 0, maxi = 0;
+            currMin = Math.min(num, currMin + num);
+            minSum = Math.min(minSum, currMin);
 
-        for (int i = n - 1; i >= 0; i--) {
-            curr += nums[i];
-            maxi = Math.max(maxi, curr);
-            temp[i] = maxi;
+            totalSum += num;
         }
 
-        int ans = nums[0], pre = 0;
-        curr = 0;
-
-        for (int i = 0; i < n; i++) {
-            curr += nums[i];
-            ans = Math.max(ans, curr);
-            curr = Math.max(0, curr);
-
-            ans = Math.max(ans, pre + temp[i]);
-            pre += nums[i];
+        // Step 2: Handle the circular case
+        // If all elements are negative, maxSum is the answer (don't use circular sum)
+        if (maxSum < 0) {
+            return maxSum;
         }
 
-        return ans;
+        // Otherwise, take the maximum of the non-circular and circular cases
+        return Math.max(maxSum, totalSum - minSum);
     }
 }
