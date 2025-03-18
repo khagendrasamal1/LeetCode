@@ -4,9 +4,9 @@ class Solution {
     }
 
     public int atMostK(int nums[], int k){
-        int left = 0, cnt = 0;
+        int left = 0, cnt = 0, n = nums.length;
 
-        for(int i=0; i<nums.length; i++){
+        for(int i=0; i<n; i++){
             if(nums[i] % 2 == 1){
                 k--;
             }
