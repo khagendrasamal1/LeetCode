@@ -23,3 +23,11 @@ Feel free to explore the code, and if you find something helpful, don't hesitate
 - [LeetCode Profile](https://leetcode.com/u/khagendra_samal_1/) - Visit my LeetCode profile to see my ongoing progress and challenges.
 
 Thank you for visiting my LeetCode Solutions repository! 🚀
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## String
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0709-to-lower-case](https://github.com/ImAlokdeCoder/LeetCode/tree/main/0709-to-lower-case/) | Easy |
+<!---LeetCode Topics End-->
