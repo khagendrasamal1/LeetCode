@@ -29,6 +29,7 @@ Thank you for visiting my LeetCode Solutions repository! 🚀
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0344-reverse-string](https://github.com/ImAlokdeCoder/LeetCode/tree/main/0344-reverse-string/) | Easy |
 | [0709-to-lower-case](https://github.com/ImAlokdeCoder/LeetCode/tree/main/0709-to-lower-case/) | Easy |
 ## Math
 | Problem Name | Difficulty |
@@ -56,4 +57,8 @@ Thank you for visiting my LeetCode Solutions repository! 🚀
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0258-add-digits](https://github.com/ImAlokdeCoder/LeetCode/tree/main/0258-add-digits/) | Easy |
+## Two Pointers
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0344-reverse-string](https://github.com/ImAlokdeCoder/LeetCode/tree/main/0344-reverse-string/) | Easy |
 <!---LeetCode Topics End-->
