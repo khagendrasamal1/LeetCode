@@ -29,6 +29,7 @@ Thank you for visiting my LeetCode Solutions repository! 🚀
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0125-valid-palindrome](https://github.com/ImAlokdeCoder/LeetCode/tree/main/0125-valid-palindrome/) | Easy |
 | [0344-reverse-string](https://github.com/ImAlokdeCoder/LeetCode/tree/main/0344-reverse-string/) | Easy |
 | [0709-to-lower-case](https://github.com/ImAlokdeCoder/LeetCode/tree/main/0709-to-lower-case/) | Easy |
 ## Math
@@ -60,5 +61,6 @@ Thank you for visiting my LeetCode Solutions repository! 🚀
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0125-valid-palindrome](https://github.com/ImAlokdeCoder/LeetCode/tree/main/0125-valid-palindrome/) | Easy |
 | [0344-reverse-string](https://github.com/ImAlokdeCoder/LeetCode/tree/main/0344-reverse-string/) | Easy |
 <!---LeetCode Topics End-->
