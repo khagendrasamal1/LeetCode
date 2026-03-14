@@ -34,6 +34,7 @@ Thank you for visiting my LeetCode Solutions repository! 🚀
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0009-palindrome-number](https://github.com/ImAlokdeCoder/LeetCode/tree/main/0009-palindrome-number/) | Easy |
+| [0258-add-digits](https://github.com/ImAlokdeCoder/LeetCode/tree/main/0258-add-digits/) | Easy |
 | [0509-fibonacci-number](https://github.com/ImAlokdeCoder/LeetCode/tree/main/0509-fibonacci-number/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
@@ -47,4 +48,12 @@ Thank you for visiting my LeetCode Solutions repository! 🚀
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0509-fibonacci-number](https://github.com/ImAlokdeCoder/LeetCode/tree/main/0509-fibonacci-number/) | Easy |
+## Simulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0258-add-digits](https://github.com/ImAlokdeCoder/LeetCode/tree/main/0258-add-digits/) | Easy |
+## Number Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0258-add-digits](https://github.com/ImAlokdeCoder/LeetCode/tree/main/0258-add-digits/) | Easy |
 <!---LeetCode Topics End-->
