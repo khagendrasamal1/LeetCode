@@ -63,11 +63,13 @@ Thank you for visiting my LeetCode Solutions repository! 🚀
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0088-merge-sorted-array](https://github.com/ImAlokdeCoder/LeetCode/tree/main/0088-merge-sorted-array/) | Easy |
 | [0125-valid-palindrome](https://github.com/ImAlokdeCoder/LeetCode/tree/main/0125-valid-palindrome/) | Easy |
 | [0344-reverse-string](https://github.com/ImAlokdeCoder/LeetCode/tree/main/0344-reverse-string/) | Easy |
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0088-merge-sorted-array](https://github.com/ImAlokdeCoder/LeetCode/tree/main/0088-merge-sorted-array/) | Easy |
 | [0215-kth-largest-element-in-an-array](https://github.com/ImAlokdeCoder/LeetCode/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/ImAlokdeCoder/LeetCode/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 ## Divide and Conquer
@@ -77,6 +79,7 @@ Thank you for visiting my LeetCode Solutions repository! 🚀
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0088-merge-sorted-array](https://github.com/ImAlokdeCoder/LeetCode/tree/main/0088-merge-sorted-array/) | Easy |
 | [0215-kth-largest-element-in-an-array](https://github.com/ImAlokdeCoder/LeetCode/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
