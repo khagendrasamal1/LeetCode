@@ -46,6 +46,7 @@ Thank you for visiting my LeetCode Solutions repository! 🚀
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0042-trapping-rain-water](https://github.com/ImAlokdeCoder/LeetCode/tree/main/0042-trapping-rain-water/) | Hard |
 | [0053-maximum-subarray](https://github.com/ImAlokdeCoder/LeetCode/tree/main/0053-maximum-subarray/) | Medium |
 | [0509-fibonacci-number](https://github.com/ImAlokdeCoder/LeetCode/tree/main/0509-fibonacci-number/) | Easy |
 ## Recursion
@@ -69,12 +70,14 @@ Thank you for visiting my LeetCode Solutions repository! 🚀
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0042-trapping-rain-water](https://github.com/ImAlokdeCoder/LeetCode/tree/main/0042-trapping-rain-water/) | Hard |
 | [0088-merge-sorted-array](https://github.com/ImAlokdeCoder/LeetCode/tree/main/0088-merge-sorted-array/) | Easy |
 | [0125-valid-palindrome](https://github.com/ImAlokdeCoder/LeetCode/tree/main/0125-valid-palindrome/) | Easy |
 | [0344-reverse-string](https://github.com/ImAlokdeCoder/LeetCode/tree/main/0344-reverse-string/) | Easy |
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0042-trapping-rain-water](https://github.com/ImAlokdeCoder/LeetCode/tree/main/0042-trapping-rain-water/) | Hard |
 | [0053-maximum-subarray](https://github.com/ImAlokdeCoder/LeetCode/tree/main/0053-maximum-subarray/) | Medium |
 | [0088-merge-sorted-array](https://github.com/ImAlokdeCoder/LeetCode/tree/main/0088-merge-sorted-array/) | Easy |
 | [0215-kth-largest-element-in-an-array](https://github.com/ImAlokdeCoder/LeetCode/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
@@ -121,4 +124,12 @@ Thank you for visiting my LeetCode Solutions repository! 🚀
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/ImAlokdeCoder/LeetCode/tree/main/0387-first-unique-character-in-a-string/) | Easy |
+## Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0042-trapping-rain-water](https://github.com/ImAlokdeCoder/LeetCode/tree/main/0042-trapping-rain-water/) | Hard |
+## Monotonic Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0042-trapping-rain-water](https://github.com/ImAlokdeCoder/LeetCode/tree/main/0042-trapping-rain-water/) | Hard |
 <!---LeetCode Topics End-->
