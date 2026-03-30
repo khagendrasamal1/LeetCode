@@ -85,6 +85,7 @@ Thank you for visiting my LeetCode Solutions repository! 🚀
 | [0053-maximum-subarray](https://github.com/ImAlokdeCoder/LeetCode/tree/main/0053-maximum-subarray/) | Medium |
 | [0088-merge-sorted-array](https://github.com/ImAlokdeCoder/LeetCode/tree/main/0088-merge-sorted-array/) | Easy |
 | [0215-kth-largest-element-in-an-array](https://github.com/ImAlokdeCoder/LeetCode/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
+| [0485-max-consecutive-ones](https://github.com/ImAlokdeCoder/LeetCode/tree/main/0485-max-consecutive-ones/) | Easy |
 | [1331-rank-transform-of-an-array](https://github.com/ImAlokdeCoder/LeetCode/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1470-shuffle-the-array](https://github.com/ImAlokdeCoder/LeetCode/tree/main/1470-shuffle-the-array/) | Easy |
 | [1929-concatenation-of-array](https://github.com/ImAlokdeCoder/LeetCode/tree/main/1929-concatenation-of-array/) | Easy |
