@@ -88,6 +88,7 @@ Thank you for visiting my LeetCode Solutions repository! 🚀
 | [0485-max-consecutive-ones](https://github.com/ImAlokdeCoder/LeetCode/tree/main/0485-max-consecutive-ones/) | Easy |
 | [0645-set-mismatch](https://github.com/ImAlokdeCoder/LeetCode/tree/main/0645-set-mismatch/) | Easy |
 | [1331-rank-transform-of-an-array](https://github.com/ImAlokdeCoder/LeetCode/tree/main/1331-rank-transform-of-an-array/) | Easy |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ImAlokdeCoder/LeetCode/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [1470-shuffle-the-array](https://github.com/ImAlokdeCoder/LeetCode/tree/main/1470-shuffle-the-array/) | Easy |
 | [1929-concatenation-of-array](https://github.com/ImAlokdeCoder/LeetCode/tree/main/1929-concatenation-of-array/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/ImAlokdeCoder/LeetCode/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
@@ -105,6 +106,7 @@ Thank you for visiting my LeetCode Solutions repository! 🚀
 | [0451-sort-characters-by-frequency](https://github.com/ImAlokdeCoder/LeetCode/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [0645-set-mismatch](https://github.com/ImAlokdeCoder/LeetCode/tree/main/0645-set-mismatch/) | Easy |
 | [1331-rank-transform-of-an-array](https://github.com/ImAlokdeCoder/LeetCode/tree/main/1331-rank-transform-of-an-array/) | Easy |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ImAlokdeCoder/LeetCode/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -130,6 +132,7 @@ Thank you for visiting my LeetCode Solutions repository! 🚀
 | [0451-sort-characters-by-frequency](https://github.com/ImAlokdeCoder/LeetCode/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [0645-set-mismatch](https://github.com/ImAlokdeCoder/LeetCode/tree/main/0645-set-mismatch/) | Easy |
 | [1331-rank-transform-of-an-array](https://github.com/ImAlokdeCoder/LeetCode/tree/main/1331-rank-transform-of-an-array/) | Easy |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ImAlokdeCoder/LeetCode/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 ## Queue
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -155,4 +158,8 @@ Thank you for visiting my LeetCode Solutions repository! 🚀
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0645-set-mismatch](https://github.com/ImAlokdeCoder/LeetCode/tree/main/0645-set-mismatch/) | Easy |
+## Counting Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ImAlokdeCoder/LeetCode/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 <!---LeetCode Topics End-->
