@@ -47,6 +47,7 @@ Thank you for visiting my LeetCode Solutions repository! 🚀
 | [1979-find-greatest-common-divisor-of-array](https://github.com/ImAlokdeCoder/LeetCode/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2427-number-of-common-factors](https://github.com/ImAlokdeCoder/LeetCode/tree/main/2427-number-of-common-factors/) | Easy |
 | [2469-convert-the-temperature](https://github.com/ImAlokdeCoder/LeetCode/tree/main/2469-convert-the-temperature/) | Easy |
+| [2485-find-the-pivot-integer](https://github.com/ImAlokdeCoder/LeetCode/tree/main/2485-find-the-pivot-integer/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -187,4 +188,8 @@ Thank you for visiting my LeetCode Solutions repository! 🚀
 | [1193-monthly-transactions-i](https://github.com/ImAlokdeCoder/LeetCode/tree/main/1193-monthly-transactions-i/) | Medium |
 | [1280-students-and-examinations](https://github.com/ImAlokdeCoder/LeetCode/tree/main/1280-students-and-examinations/) | Easy |
 | [1327-list-the-products-ordered-in-a-period](https://github.com/ImAlokdeCoder/LeetCode/tree/main/1327-list-the-products-ordered-in-a-period/) | Easy |
+## Prefix Sum
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2485-find-the-pivot-integer](https://github.com/ImAlokdeCoder/LeetCode/tree/main/2485-find-the-pivot-integer/) | Easy |
 <!---LeetCode Topics End-->
