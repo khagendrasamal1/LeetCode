@@ -189,6 +189,7 @@ Thank you for visiting my LeetCode Solutions repository! 🚀
 | [1193-monthly-transactions-i](https://github.com/ImAlokdeCoder/LeetCode/tree/main/1193-monthly-transactions-i/) | Medium |
 | [1280-students-and-examinations](https://github.com/ImAlokdeCoder/LeetCode/tree/main/1280-students-and-examinations/) | Easy |
 | [1327-list-the-products-ordered-in-a-period](https://github.com/ImAlokdeCoder/LeetCode/tree/main/1327-list-the-products-ordered-in-a-period/) | Easy |
+| [1341-movie-rating](https://github.com/ImAlokdeCoder/LeetCode/tree/main/1341-movie-rating/) | Medium |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
