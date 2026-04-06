@@ -9,6 +9,7 @@ Welcome to my LeetCode Solutions repository! This repository contains all my sol
   <img src="./leetcode 100.gif" alt="100-Day LeetCode Badge GIF" width="200"/>
   <img src="./Introduction_to_Pandas.gif" alt="100-Day LeetCode Badge GIF" width="200"/>
   <img src="./2025-50-days-leetcode.gif" alt="50-Day LeetCode Badge GIF" width="200"/>
+  <img src="./Quest_data.gif" alt="Quest_data gif" width="200"/>
 </div>
 
 ## 📚 Solutions
