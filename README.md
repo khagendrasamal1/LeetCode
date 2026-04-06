@@ -47,6 +47,7 @@ Thank you for visiting my LeetCode Solutions repository! 🚀
 | [0258-add-digits](https://github.com/ImAlokdeCoder/LeetCode/tree/main/0258-add-digits/) | Easy |
 | [0263-ugly-number](https://github.com/ImAlokdeCoder/LeetCode/tree/main/0263-ugly-number/) | Easy |
 | [0509-fibonacci-number](https://github.com/ImAlokdeCoder/LeetCode/tree/main/0509-fibonacci-number/) | Easy |
+| [0728-self-dividing-numbers](https://github.com/ImAlokdeCoder/LeetCode/tree/main/0728-self-dividing-numbers/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/ImAlokdeCoder/LeetCode/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2427-number-of-common-factors](https://github.com/ImAlokdeCoder/LeetCode/tree/main/2427-number-of-common-factors/) | Easy |
 | [2469-convert-the-temperature](https://github.com/ImAlokdeCoder/LeetCode/tree/main/2469-convert-the-temperature/) | Easy |
