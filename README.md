@@ -184,6 +184,7 @@ Thank you for visiting my LeetCode Solutions repository! 🚀
 | [0184-department-highest-salary](https://github.com/ImAlokdeCoder/LeetCode/tree/main/0184-department-highest-salary/) | Medium |
 | [0262-trips-and-users](https://github.com/ImAlokdeCoder/LeetCode/tree/main/0262-trips-and-users/) | Hard |
 | [0584-find-customer-referee](https://github.com/ImAlokdeCoder/LeetCode/tree/main/0584-find-customer-referee/) | Easy |
+| [0585-investments-in-2016](https://github.com/ImAlokdeCoder/LeetCode/tree/main/0585-investments-in-2016/) | Medium |
 | [0586-customer-placing-the-largest-number-of-orders](https://github.com/ImAlokdeCoder/LeetCode/tree/main/0586-customer-placing-the-largest-number-of-orders/) | Easy |
 | [0596-classes-with-at-least-5-students](https://github.com/ImAlokdeCoder/LeetCode/tree/main/0596-classes-with-at-least-5-students/) | Easy |
 | [0608-tree-node](https://github.com/ImAlokdeCoder/LeetCode/tree/main/0608-tree-node/) | Medium |
