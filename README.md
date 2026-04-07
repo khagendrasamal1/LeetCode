@@ -186,6 +186,7 @@ Thank you for visiting my LeetCode Solutions repository! 🚀
 | [0178-rank-scores](https://github.com/ImAlokdeCoder/LeetCode/tree/main/0178-rank-scores/) | Medium |
 | [0180-consecutive-numbers](https://github.com/ImAlokdeCoder/LeetCode/tree/main/0180-consecutive-numbers/) | Medium |
 | [0181-employees-earning-more-than-their-managers](https://github.com/ImAlokdeCoder/LeetCode/tree/main/0181-employees-earning-more-than-their-managers/) | Easy |
+| [0182-duplicate-emails](https://github.com/ImAlokdeCoder/LeetCode/tree/main/0182-duplicate-emails/) | Easy |
 | [0184-department-highest-salary](https://github.com/ImAlokdeCoder/LeetCode/tree/main/0184-department-highest-salary/) | Medium |
 | [0262-trips-and-users](https://github.com/ImAlokdeCoder/LeetCode/tree/main/0262-trips-and-users/) | Hard |
 | [0511-game-play-analysis-i](https://github.com/ImAlokdeCoder/LeetCode/tree/main/0511-game-play-analysis-i/) | Easy |
