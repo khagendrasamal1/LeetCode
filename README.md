@@ -109,6 +109,7 @@ Thank you for visiting my LeetCode Solutions repository! 🚀
 | [2185-counting-words-with-a-given-prefix](https://github.com/ImAlokdeCoder/LeetCode/tree/main/2185-counting-words-with-a-given-prefix/) | Easy |
 | [2540-minimum-common-value](https://github.com/ImAlokdeCoder/LeetCode/tree/main/2540-minimum-common-value/) | Easy |
 | [2956-find-common-elements-between-two-arrays](https://github.com/ImAlokdeCoder/LeetCode/tree/main/2956-find-common-elements-between-two-arrays/) | Easy |
+| [3731-find-missing-elements](https://github.com/ImAlokdeCoder/LeetCode/tree/main/3731-find-missing-elements/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -124,6 +125,7 @@ Thank you for visiting my LeetCode Solutions repository! 🚀
 | [1331-rank-transform-of-an-array](https://github.com/ImAlokdeCoder/LeetCode/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ImAlokdeCoder/LeetCode/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/ImAlokdeCoder/LeetCode/tree/main/1502-can-make-arithmetic-progression-from-sequence/) | Easy |
+| [3731-find-missing-elements](https://github.com/ImAlokdeCoder/LeetCode/tree/main/3731-find-missing-elements/) | Easy |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -155,6 +157,7 @@ Thank you for visiting my LeetCode Solutions repository! 🚀
 | [2351-first-letter-to-appear-twice](https://github.com/ImAlokdeCoder/LeetCode/tree/main/2351-first-letter-to-appear-twice/) | Easy |
 | [2540-minimum-common-value](https://github.com/ImAlokdeCoder/LeetCode/tree/main/2540-minimum-common-value/) | Easy |
 | [2956-find-common-elements-between-two-arrays](https://github.com/ImAlokdeCoder/LeetCode/tree/main/2956-find-common-elements-between-two-arrays/) | Easy |
+| [3731-find-missing-elements](https://github.com/ImAlokdeCoder/LeetCode/tree/main/3731-find-missing-elements/) | Easy |
 ## Queue
 | Problem Name | Difficulty |
 | ------- | ------- |
