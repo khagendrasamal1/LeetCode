@@ -37,6 +37,7 @@ Thank you for visiting my LeetCode Solutions repository! 🚀
 | [0451-sort-characters-by-frequency](https://github.com/ImAlokdeCoder/LeetCode/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [0709-to-lower-case](https://github.com/ImAlokdeCoder/LeetCode/tree/main/0709-to-lower-case/) | Easy |
 | [2185-counting-words-with-a-given-prefix](https://github.com/ImAlokdeCoder/LeetCode/tree/main/2185-counting-words-with-a-given-prefix/) | Easy |
+| [2351-first-letter-to-appear-twice](https://github.com/ImAlokdeCoder/LeetCode/tree/main/2351-first-letter-to-appear-twice/) | Easy |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -151,6 +152,7 @@ Thank you for visiting my LeetCode Solutions repository! 🚀
 | [1015-smallest-integer-divisible-by-k](https://github.com/ImAlokdeCoder/LeetCode/tree/main/1015-smallest-integer-divisible-by-k/) | Medium |
 | [1331-rank-transform-of-an-array](https://github.com/ImAlokdeCoder/LeetCode/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ImAlokdeCoder/LeetCode/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
+| [2351-first-letter-to-appear-twice](https://github.com/ImAlokdeCoder/LeetCode/tree/main/2351-first-letter-to-appear-twice/) | Easy |
 | [2540-minimum-common-value](https://github.com/ImAlokdeCoder/LeetCode/tree/main/2540-minimum-common-value/) | Easy |
 | [2956-find-common-elements-between-two-arrays](https://github.com/ImAlokdeCoder/LeetCode/tree/main/2956-find-common-elements-between-two-arrays/) | Easy |
 ## Queue
@@ -162,6 +164,7 @@ Thank you for visiting my LeetCode Solutions repository! 🚀
 | ------- | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/ImAlokdeCoder/LeetCode/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0451-sort-characters-by-frequency](https://github.com/ImAlokdeCoder/LeetCode/tree/main/0451-sort-characters-by-frequency/) | Medium |
+| [2351-first-letter-to-appear-twice](https://github.com/ImAlokdeCoder/LeetCode/tree/main/2351-first-letter-to-appear-twice/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -180,6 +183,7 @@ Thank you for visiting my LeetCode Solutions repository! 🚀
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0645-set-mismatch](https://github.com/ImAlokdeCoder/LeetCode/tree/main/0645-set-mismatch/) | Easy |
+| [2351-first-letter-to-appear-twice](https://github.com/ImAlokdeCoder/LeetCode/tree/main/2351-first-letter-to-appear-twice/) | Easy |
 ## Counting Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
