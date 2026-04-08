@@ -107,6 +107,7 @@ Thank you for visiting my LeetCode Solutions repository! 🚀
 | [1979-find-greatest-common-divisor-of-array](https://github.com/ImAlokdeCoder/LeetCode/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2185-counting-words-with-a-given-prefix](https://github.com/ImAlokdeCoder/LeetCode/tree/main/2185-counting-words-with-a-given-prefix/) | Easy |
 | [2540-minimum-common-value](https://github.com/ImAlokdeCoder/LeetCode/tree/main/2540-minimum-common-value/) | Easy |
+| [2956-find-common-elements-between-two-arrays](https://github.com/ImAlokdeCoder/LeetCode/tree/main/2956-find-common-elements-between-two-arrays/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -151,6 +152,7 @@ Thank you for visiting my LeetCode Solutions repository! 🚀
 | [1331-rank-transform-of-an-array](https://github.com/ImAlokdeCoder/LeetCode/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ImAlokdeCoder/LeetCode/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [2540-minimum-common-value](https://github.com/ImAlokdeCoder/LeetCode/tree/main/2540-minimum-common-value/) | Easy |
+| [2956-find-common-elements-between-two-arrays](https://github.com/ImAlokdeCoder/LeetCode/tree/main/2956-find-common-elements-between-two-arrays/) | Easy |
 ## Queue
 | Problem Name | Difficulty |
 | ------- | ------- |
