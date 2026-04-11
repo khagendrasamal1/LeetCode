@@ -45,6 +45,7 @@ Thank you for visiting my LeetCode Solutions repository! 🚀
 | [0009-palindrome-number](https://github.com/ImAlokdeCoder/LeetCode/tree/main/0009-palindrome-number/) | Easy |
 | [0013-roman-to-integer](https://github.com/ImAlokdeCoder/LeetCode/tree/main/0013-roman-to-integer/) | Easy |
 | [0150-evaluate-reverse-polish-notation](https://github.com/ImAlokdeCoder/LeetCode/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
+| [0189-rotate-array](https://github.com/ImAlokdeCoder/LeetCode/tree/main/0189-rotate-array/) | Medium |
 | [0258-add-digits](https://github.com/ImAlokdeCoder/LeetCode/tree/main/0258-add-digits/) | Easy |
 | [0263-ugly-number](https://github.com/ImAlokdeCoder/LeetCode/tree/main/0263-ugly-number/) | Easy |
 | [0268-missing-number](https://github.com/ImAlokdeCoder/LeetCode/tree/main/0268-missing-number/) | Easy |
@@ -87,6 +88,7 @@ Thank you for visiting my LeetCode Solutions repository! 🚀
 | [0042-trapping-rain-water](https://github.com/ImAlokdeCoder/LeetCode/tree/main/0042-trapping-rain-water/) | Hard |
 | [0088-merge-sorted-array](https://github.com/ImAlokdeCoder/LeetCode/tree/main/0088-merge-sorted-array/) | Easy |
 | [0125-valid-palindrome](https://github.com/ImAlokdeCoder/LeetCode/tree/main/0125-valid-palindrome/) | Easy |
+| [0189-rotate-array](https://github.com/ImAlokdeCoder/LeetCode/tree/main/0189-rotate-array/) | Medium |
 | [0344-reverse-string](https://github.com/ImAlokdeCoder/LeetCode/tree/main/0344-reverse-string/) | Easy |
 | [2540-minimum-common-value](https://github.com/ImAlokdeCoder/LeetCode/tree/main/2540-minimum-common-value/) | Easy |
 ## Array
@@ -96,6 +98,7 @@ Thank you for visiting my LeetCode Solutions repository! 🚀
 | [0053-maximum-subarray](https://github.com/ImAlokdeCoder/LeetCode/tree/main/0053-maximum-subarray/) | Medium |
 | [0088-merge-sorted-array](https://github.com/ImAlokdeCoder/LeetCode/tree/main/0088-merge-sorted-array/) | Easy |
 | [0150-evaluate-reverse-polish-notation](https://github.com/ImAlokdeCoder/LeetCode/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
+| [0189-rotate-array](https://github.com/ImAlokdeCoder/LeetCode/tree/main/0189-rotate-array/) | Medium |
 | [0215-kth-largest-element-in-an-array](https://github.com/ImAlokdeCoder/LeetCode/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0268-missing-number](https://github.com/ImAlokdeCoder/LeetCode/tree/main/0268-missing-number/) | Easy |
 | [0442-find-all-duplicates-in-an-array](https://github.com/ImAlokdeCoder/LeetCode/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
