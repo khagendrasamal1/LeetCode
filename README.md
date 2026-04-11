@@ -47,6 +47,7 @@ Thank you for visiting my LeetCode Solutions repository! 🚀
 | [0150-evaluate-reverse-polish-notation](https://github.com/ImAlokdeCoder/LeetCode/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0258-add-digits](https://github.com/ImAlokdeCoder/LeetCode/tree/main/0258-add-digits/) | Easy |
 | [0263-ugly-number](https://github.com/ImAlokdeCoder/LeetCode/tree/main/0263-ugly-number/) | Easy |
+| [0268-missing-number](https://github.com/ImAlokdeCoder/LeetCode/tree/main/0268-missing-number/) | Easy |
 | [0509-fibonacci-number](https://github.com/ImAlokdeCoder/LeetCode/tree/main/0509-fibonacci-number/) | Easy |
 | [0728-self-dividing-numbers](https://github.com/ImAlokdeCoder/LeetCode/tree/main/0728-self-dividing-numbers/) | Easy |
 | [1015-smallest-integer-divisible-by-k](https://github.com/ImAlokdeCoder/LeetCode/tree/main/1015-smallest-integer-divisible-by-k/) | Medium |
@@ -96,6 +97,7 @@ Thank you for visiting my LeetCode Solutions repository! 🚀
 | [0088-merge-sorted-array](https://github.com/ImAlokdeCoder/LeetCode/tree/main/0088-merge-sorted-array/) | Easy |
 | [0150-evaluate-reverse-polish-notation](https://github.com/ImAlokdeCoder/LeetCode/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0215-kth-largest-element-in-an-array](https://github.com/ImAlokdeCoder/LeetCode/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
+| [0268-missing-number](https://github.com/ImAlokdeCoder/LeetCode/tree/main/0268-missing-number/) | Easy |
 | [0442-find-all-duplicates-in-an-array](https://github.com/ImAlokdeCoder/LeetCode/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/ImAlokdeCoder/LeetCode/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [0485-max-consecutive-ones](https://github.com/ImAlokdeCoder/LeetCode/tree/main/0485-max-consecutive-ones/) | Easy |
@@ -121,6 +123,7 @@ Thank you for visiting my LeetCode Solutions repository! 🚀
 | ------- | ------- |
 | [0088-merge-sorted-array](https://github.com/ImAlokdeCoder/LeetCode/tree/main/0088-merge-sorted-array/) | Easy |
 | [0215-kth-largest-element-in-an-array](https://github.com/ImAlokdeCoder/LeetCode/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
+| [0268-missing-number](https://github.com/ImAlokdeCoder/LeetCode/tree/main/0268-missing-number/) | Easy |
 | [0442-find-all-duplicates-in-an-array](https://github.com/ImAlokdeCoder/LeetCode/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
 | [0451-sort-characters-by-frequency](https://github.com/ImAlokdeCoder/LeetCode/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [0645-set-mismatch](https://github.com/ImAlokdeCoder/LeetCode/tree/main/0645-set-mismatch/) | Easy |
@@ -149,6 +152,7 @@ Thank you for visiting my LeetCode Solutions repository! 🚀
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0013-roman-to-integer](https://github.com/ImAlokdeCoder/LeetCode/tree/main/0013-roman-to-integer/) | Easy |
+| [0268-missing-number](https://github.com/ImAlokdeCoder/LeetCode/tree/main/0268-missing-number/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/ImAlokdeCoder/LeetCode/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0442-find-all-duplicates-in-an-array](https://github.com/ImAlokdeCoder/LeetCode/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/ImAlokdeCoder/LeetCode/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
@@ -188,6 +192,7 @@ Thank you for visiting my LeetCode Solutions repository! 🚀
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0268-missing-number](https://github.com/ImAlokdeCoder/LeetCode/tree/main/0268-missing-number/) | Easy |
 | [0645-set-mismatch](https://github.com/ImAlokdeCoder/LeetCode/tree/main/0645-set-mismatch/) | Easy |
 | [2351-first-letter-to-appear-twice](https://github.com/ImAlokdeCoder/LeetCode/tree/main/2351-first-letter-to-appear-twice/) | Easy |
 ## Counting Sort
@@ -226,5 +231,6 @@ Thank you for visiting my LeetCode Solutions repository! 🚀
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0268-missing-number](https://github.com/ImAlokdeCoder/LeetCode/tree/main/0268-missing-number/) | Easy |
 | [2540-minimum-common-value](https://github.com/ImAlokdeCoder/LeetCode/tree/main/2540-minimum-common-value/) | Easy |
 <!---LeetCode Topics End-->
