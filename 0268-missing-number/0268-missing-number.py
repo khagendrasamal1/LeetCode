@@ -5,14 +5,12 @@ class Solution(object):
         :rtype: int
         """
         n = len(nums)
+        summ = 0
 
-        arr_sum = 0
+        for num in nums:
+            summ += num
 
-        for i in nums:
-            arr_sum += i
+        arr_sum = (n * (n+1)) // 2
 
-        natural_sum = n * (n+1) // 2
-
-        return natural_sum - arr_sum
-
+        return arr_sum - summ
         
