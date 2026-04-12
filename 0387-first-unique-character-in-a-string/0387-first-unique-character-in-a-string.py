@@ -1,16 +1,15 @@
-class Solution(object):
-    def firstUniqChar(self, s):
-        """
-        :type s: str
-        :rtype: int
-        """
+class Solution:
+    def firstUniqChar(self, s: str) -> int:
+        ind = -1
+
         freq = {}
 
         for ch in s:
-            freq[ch] = freq.get(ch, 0) + 1
+            freq[ch] = freq.get(ch, 0)+1
 
         for i in range(len(s)):
             if freq[s[i]] == 1:
-                return i
+                ind = i
+                break
 
-        return -1
+        return ind
