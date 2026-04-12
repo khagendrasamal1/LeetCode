@@ -91,6 +91,7 @@ Thank you for visiting my LeetCode Solutions repository! 🚀
 | [0125-valid-palindrome](https://github.com/ImAlokdeCoder/LeetCode/tree/main/0125-valid-palindrome/) | Easy |
 | [0189-rotate-array](https://github.com/ImAlokdeCoder/LeetCode/tree/main/0189-rotate-array/) | Medium |
 | [0344-reverse-string](https://github.com/ImAlokdeCoder/LeetCode/tree/main/0344-reverse-string/) | Easy |
+| [0349-intersection-of-two-arrays](https://github.com/ImAlokdeCoder/LeetCode/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [2540-minimum-common-value](https://github.com/ImAlokdeCoder/LeetCode/tree/main/2540-minimum-common-value/) | Easy |
 ## Array
 | Problem Name | Difficulty |
@@ -102,6 +103,7 @@ Thank you for visiting my LeetCode Solutions repository! 🚀
 | [0189-rotate-array](https://github.com/ImAlokdeCoder/LeetCode/tree/main/0189-rotate-array/) | Medium |
 | [0215-kth-largest-element-in-an-array](https://github.com/ImAlokdeCoder/LeetCode/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0268-missing-number](https://github.com/ImAlokdeCoder/LeetCode/tree/main/0268-missing-number/) | Easy |
+| [0349-intersection-of-two-arrays](https://github.com/ImAlokdeCoder/LeetCode/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0442-find-all-duplicates-in-an-array](https://github.com/ImAlokdeCoder/LeetCode/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/ImAlokdeCoder/LeetCode/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [0485-max-consecutive-ones](https://github.com/ImAlokdeCoder/LeetCode/tree/main/0485-max-consecutive-ones/) | Easy |
@@ -128,6 +130,7 @@ Thank you for visiting my LeetCode Solutions repository! 🚀
 | [0088-merge-sorted-array](https://github.com/ImAlokdeCoder/LeetCode/tree/main/0088-merge-sorted-array/) | Easy |
 | [0215-kth-largest-element-in-an-array](https://github.com/ImAlokdeCoder/LeetCode/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0268-missing-number](https://github.com/ImAlokdeCoder/LeetCode/tree/main/0268-missing-number/) | Easy |
+| [0349-intersection-of-two-arrays](https://github.com/ImAlokdeCoder/LeetCode/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0442-find-all-duplicates-in-an-array](https://github.com/ImAlokdeCoder/LeetCode/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
 | [0451-sort-characters-by-frequency](https://github.com/ImAlokdeCoder/LeetCode/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [0645-set-mismatch](https://github.com/ImAlokdeCoder/LeetCode/tree/main/0645-set-mismatch/) | Easy |
@@ -158,6 +161,7 @@ Thank you for visiting my LeetCode Solutions repository! 🚀
 | [0003-longest-substring-without-repeating-characters](https://github.com/ImAlokdeCoder/LeetCode/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0013-roman-to-integer](https://github.com/ImAlokdeCoder/LeetCode/tree/main/0013-roman-to-integer/) | Easy |
 | [0268-missing-number](https://github.com/ImAlokdeCoder/LeetCode/tree/main/0268-missing-number/) | Easy |
+| [0349-intersection-of-two-arrays](https://github.com/ImAlokdeCoder/LeetCode/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/ImAlokdeCoder/LeetCode/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0442-find-all-duplicates-in-an-array](https://github.com/ImAlokdeCoder/LeetCode/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/ImAlokdeCoder/LeetCode/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
@@ -237,6 +241,7 @@ Thank you for visiting my LeetCode Solutions repository! 🚀
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0268-missing-number](https://github.com/ImAlokdeCoder/LeetCode/tree/main/0268-missing-number/) | Easy |
+| [0349-intersection-of-two-arrays](https://github.com/ImAlokdeCoder/LeetCode/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [2540-minimum-common-value](https://github.com/ImAlokdeCoder/LeetCode/tree/main/2540-minimum-common-value/) | Easy |
 ## Sliding Window
 | Problem Name | Difficulty |
