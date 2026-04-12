@@ -33,6 +33,7 @@ Thank you for visiting my LeetCode Solutions repository! 🚀
 | [0003-longest-substring-without-repeating-characters](https://github.com/ImAlokdeCoder/LeetCode/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0013-roman-to-integer](https://github.com/ImAlokdeCoder/LeetCode/tree/main/0013-roman-to-integer/) | Easy |
 | [0125-valid-palindrome](https://github.com/ImAlokdeCoder/LeetCode/tree/main/0125-valid-palindrome/) | Easy |
+| [0242-valid-anagram](https://github.com/ImAlokdeCoder/LeetCode/tree/main/0242-valid-anagram/) | Easy |
 | [0344-reverse-string](https://github.com/ImAlokdeCoder/LeetCode/tree/main/0344-reverse-string/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/ImAlokdeCoder/LeetCode/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0451-sort-characters-by-frequency](https://github.com/ImAlokdeCoder/LeetCode/tree/main/0451-sort-characters-by-frequency/) | Medium |
@@ -139,6 +140,7 @@ Thank you for visiting my LeetCode Solutions repository! 🚀
 | ------- | ------- |
 | [0088-merge-sorted-array](https://github.com/ImAlokdeCoder/LeetCode/tree/main/0088-merge-sorted-array/) | Easy |
 | [0215-kth-largest-element-in-an-array](https://github.com/ImAlokdeCoder/LeetCode/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
+| [0242-valid-anagram](https://github.com/ImAlokdeCoder/LeetCode/tree/main/0242-valid-anagram/) | Easy |
 | [0268-missing-number](https://github.com/ImAlokdeCoder/LeetCode/tree/main/0268-missing-number/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/ImAlokdeCoder/LeetCode/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0442-find-all-duplicates-in-an-array](https://github.com/ImAlokdeCoder/LeetCode/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
@@ -171,6 +173,7 @@ Thank you for visiting my LeetCode Solutions repository! 🚀
 | [0003-longest-substring-without-repeating-characters](https://github.com/ImAlokdeCoder/LeetCode/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0013-roman-to-integer](https://github.com/ImAlokdeCoder/LeetCode/tree/main/0013-roman-to-integer/) | Easy |
 | [0141-linked-list-cycle](https://github.com/ImAlokdeCoder/LeetCode/tree/main/0141-linked-list-cycle/) | Easy |
+| [0242-valid-anagram](https://github.com/ImAlokdeCoder/LeetCode/tree/main/0242-valid-anagram/) | Easy |
 | [0268-missing-number](https://github.com/ImAlokdeCoder/LeetCode/tree/main/0268-missing-number/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/ImAlokdeCoder/LeetCode/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/ImAlokdeCoder/LeetCode/tree/main/0387-first-unique-character-in-a-string/) | Easy |
