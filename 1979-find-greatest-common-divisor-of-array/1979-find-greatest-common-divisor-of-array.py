@@ -1,19 +1,15 @@
-class Solution(object):
-    def findGCD(self, nums):
-        """
-        :type nums: List[int]
-        :rtype: int
-        """
-        largest = nums[0]
-        smallest = nums[0]
-        
+class Solution:
+    def findGCD(self, nums: List[int]) -> int:
+        a = nums[0]
+        b = nums[0]
+
         for i in nums:
-            if i > largest:
-                largest = i
-            if i < smallest:
-                smallest = i
+            if i < a:
+                a = i
+            if i > b:
+                b = i
 
-        while largest != 0:
-            smallest, largest = largest, smallest%largest
-        return smallest
+        while b != 0:
+            a, b = b, a%b
 
+        return a
