@@ -94,6 +94,7 @@ Thank you for visiting my LeetCode Solutions repository! 🚀
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0015-3sum](https://github.com/ImAlokdeCoder/LeetCode/tree/main/0015-3sum/) | Medium |
 | [0042-trapping-rain-water](https://github.com/ImAlokdeCoder/LeetCode/tree/main/0042-trapping-rain-water/) | Hard |
 | [0088-merge-sorted-array](https://github.com/ImAlokdeCoder/LeetCode/tree/main/0088-merge-sorted-array/) | Easy |
 | [0125-valid-palindrome](https://github.com/ImAlokdeCoder/LeetCode/tree/main/0125-valid-palindrome/) | Easy |
@@ -106,6 +107,7 @@ Thank you for visiting my LeetCode Solutions repository! 🚀
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/ImAlokdeCoder/LeetCode/tree/main/0001-two-sum/) | Easy |
+| [0015-3sum](https://github.com/ImAlokdeCoder/LeetCode/tree/main/0015-3sum/) | Medium |
 | [0033-search-in-rotated-sorted-array](https://github.com/ImAlokdeCoder/LeetCode/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0042-trapping-rain-water](https://github.com/ImAlokdeCoder/LeetCode/tree/main/0042-trapping-rain-water/) | Hard |
 | [0053-maximum-subarray](https://github.com/ImAlokdeCoder/LeetCode/tree/main/0053-maximum-subarray/) | Medium |
@@ -142,6 +144,7 @@ Thank you for visiting my LeetCode Solutions repository! 🚀
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0015-3sum](https://github.com/ImAlokdeCoder/LeetCode/tree/main/0015-3sum/) | Medium |
 | [0088-merge-sorted-array](https://github.com/ImAlokdeCoder/LeetCode/tree/main/0088-merge-sorted-array/) | Easy |
 | [0215-kth-largest-element-in-an-array](https://github.com/ImAlokdeCoder/LeetCode/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0242-valid-anagram](https://github.com/ImAlokdeCoder/LeetCode/tree/main/0242-valid-anagram/) | Easy |
