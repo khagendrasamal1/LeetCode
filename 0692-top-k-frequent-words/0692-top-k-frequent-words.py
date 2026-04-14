@@ -5,8 +5,8 @@ class Solution:
         for word in words:
             freq[word] = freq.get(word, 0)+1
 
-            unique_words = list(freq.keys())
+        unique_words = list(freq.keys())
 
-            unique_words.sort(key=lambda w: (-freq[w], w))
+        unique_words.sort(key=lambda w: (-freq[w], w))
 
         return unique_words[:k]
