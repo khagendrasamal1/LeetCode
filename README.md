@@ -39,6 +39,7 @@ Thank you for visiting my LeetCode Solutions repository! 🚀
 | [0387-first-unique-character-in-a-string](https://github.com/ImAlokdeCoder/LeetCode/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0451-sort-characters-by-frequency](https://github.com/ImAlokdeCoder/LeetCode/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [0709-to-lower-case](https://github.com/ImAlokdeCoder/LeetCode/tree/main/0709-to-lower-case/) | Easy |
+| [1071-greatest-common-divisor-of-strings](https://github.com/ImAlokdeCoder/LeetCode/tree/main/1071-greatest-common-divisor-of-strings/) | Easy |
 | [2185-counting-words-with-a-given-prefix](https://github.com/ImAlokdeCoder/LeetCode/tree/main/2185-counting-words-with-a-given-prefix/) | Easy |
 | [2351-first-letter-to-appear-twice](https://github.com/ImAlokdeCoder/LeetCode/tree/main/2351-first-letter-to-appear-twice/) | Easy |
 ## Math
@@ -55,6 +56,7 @@ Thank you for visiting my LeetCode Solutions repository! 🚀
 | [0509-fibonacci-number](https://github.com/ImAlokdeCoder/LeetCode/tree/main/0509-fibonacci-number/) | Easy |
 | [0728-self-dividing-numbers](https://github.com/ImAlokdeCoder/LeetCode/tree/main/0728-self-dividing-numbers/) | Easy |
 | [1015-smallest-integer-divisible-by-k](https://github.com/ImAlokdeCoder/LeetCode/tree/main/1015-smallest-integer-divisible-by-k/) | Medium |
+| [1071-greatest-common-divisor-of-strings](https://github.com/ImAlokdeCoder/LeetCode/tree/main/1071-greatest-common-divisor-of-strings/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/ImAlokdeCoder/LeetCode/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2427-number-of-common-factors](https://github.com/ImAlokdeCoder/LeetCode/tree/main/2427-number-of-common-factors/) | Easy |
 | [2469-convert-the-temperature](https://github.com/ImAlokdeCoder/LeetCode/tree/main/2469-convert-the-temperature/) | Easy |
