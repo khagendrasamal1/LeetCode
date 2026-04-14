@@ -38,6 +38,7 @@ Thank you for visiting my LeetCode Solutions repository! 🚀
 | [0344-reverse-string](https://github.com/ImAlokdeCoder/LeetCode/tree/main/0344-reverse-string/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/ImAlokdeCoder/LeetCode/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0451-sort-characters-by-frequency](https://github.com/ImAlokdeCoder/LeetCode/tree/main/0451-sort-characters-by-frequency/) | Medium |
+| [0692-top-k-frequent-words](https://github.com/ImAlokdeCoder/LeetCode/tree/main/0692-top-k-frequent-words/) | Medium |
 | [0709-to-lower-case](https://github.com/ImAlokdeCoder/LeetCode/tree/main/0709-to-lower-case/) | Easy |
 | [1071-greatest-common-divisor-of-strings](https://github.com/ImAlokdeCoder/LeetCode/tree/main/1071-greatest-common-divisor-of-strings/) | Easy |
 | [2185-counting-words-with-a-given-prefix](https://github.com/ImAlokdeCoder/LeetCode/tree/main/2185-counting-words-with-a-given-prefix/) | Easy |
@@ -129,6 +130,7 @@ Thank you for visiting my LeetCode Solutions repository! 🚀
 | [0485-max-consecutive-ones](https://github.com/ImAlokdeCoder/LeetCode/tree/main/0485-max-consecutive-ones/) | Easy |
 | [0560-subarray-sum-equals-k](https://github.com/ImAlokdeCoder/LeetCode/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0645-set-mismatch](https://github.com/ImAlokdeCoder/LeetCode/tree/main/0645-set-mismatch/) | Easy |
+| [0692-top-k-frequent-words](https://github.com/ImAlokdeCoder/LeetCode/tree/main/0692-top-k-frequent-words/) | Medium |
 | [1331-rank-transform-of-an-array](https://github.com/ImAlokdeCoder/LeetCode/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ImAlokdeCoder/LeetCode/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [1441-build-an-array-with-stack-operations](https://github.com/ImAlokdeCoder/LeetCode/tree/main/1441-build-an-array-with-stack-operations/) | Medium |
@@ -157,6 +159,7 @@ Thank you for visiting my LeetCode Solutions repository! 🚀
 | [0442-find-all-duplicates-in-an-array](https://github.com/ImAlokdeCoder/LeetCode/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
 | [0451-sort-characters-by-frequency](https://github.com/ImAlokdeCoder/LeetCode/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [0645-set-mismatch](https://github.com/ImAlokdeCoder/LeetCode/tree/main/0645-set-mismatch/) | Easy |
+| [0692-top-k-frequent-words](https://github.com/ImAlokdeCoder/LeetCode/tree/main/0692-top-k-frequent-words/) | Medium |
 | [1331-rank-transform-of-an-array](https://github.com/ImAlokdeCoder/LeetCode/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ImAlokdeCoder/LeetCode/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/ImAlokdeCoder/LeetCode/tree/main/1502-can-make-arithmetic-progression-from-sequence/) | Easy |
@@ -166,6 +169,7 @@ Thank you for visiting my LeetCode Solutions repository! 🚀
 | ------- | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/ImAlokdeCoder/LeetCode/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0451-sort-characters-by-frequency](https://github.com/ImAlokdeCoder/LeetCode/tree/main/0451-sort-characters-by-frequency/) | Medium |
+| [0692-top-k-frequent-words](https://github.com/ImAlokdeCoder/LeetCode/tree/main/0692-top-k-frequent-words/) | Medium |
 ## Quickselect
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -194,6 +198,7 @@ Thank you for visiting my LeetCode Solutions repository! 🚀
 | [0451-sort-characters-by-frequency](https://github.com/ImAlokdeCoder/LeetCode/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/ImAlokdeCoder/LeetCode/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0645-set-mismatch](https://github.com/ImAlokdeCoder/LeetCode/tree/main/0645-set-mismatch/) | Easy |
+| [0692-top-k-frequent-words](https://github.com/ImAlokdeCoder/LeetCode/tree/main/0692-top-k-frequent-words/) | Medium |
 | [1015-smallest-integer-divisible-by-k](https://github.com/ImAlokdeCoder/LeetCode/tree/main/1015-smallest-integer-divisible-by-k/) | Medium |
 | [1331-rank-transform-of-an-array](https://github.com/ImAlokdeCoder/LeetCode/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ImAlokdeCoder/LeetCode/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
@@ -210,6 +215,7 @@ Thank you for visiting my LeetCode Solutions repository! 🚀
 | ------- | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/ImAlokdeCoder/LeetCode/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0451-sort-characters-by-frequency](https://github.com/ImAlokdeCoder/LeetCode/tree/main/0451-sort-characters-by-frequency/) | Medium |
+| [0692-top-k-frequent-words](https://github.com/ImAlokdeCoder/LeetCode/tree/main/0692-top-k-frequent-words/) | Medium |
 | [2351-first-letter-to-appear-twice](https://github.com/ImAlokdeCoder/LeetCode/tree/main/2351-first-letter-to-appear-twice/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
@@ -228,6 +234,7 @@ Thank you for visiting my LeetCode Solutions repository! 🚀
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/ImAlokdeCoder/LeetCode/tree/main/0451-sort-characters-by-frequency/) | Medium |
+| [0692-top-k-frequent-words](https://github.com/ImAlokdeCoder/LeetCode/tree/main/0692-top-k-frequent-words/) | Medium |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -314,4 +321,8 @@ Thank you for visiting my LeetCode Solutions repository! 🚀
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/ImAlokdeCoder/LeetCode/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
+## Trie
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0692-top-k-frequent-words](https://github.com/ImAlokdeCoder/LeetCode/tree/main/0692-top-k-frequent-words/) | Medium |
 <!---LeetCode Topics End-->
