@@ -119,6 +119,7 @@ Thank you for visiting my LeetCode Solutions repository! 🚀
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/ImAlokdeCoder/LeetCode/tree/main/0123-best-time-to-buy-and-sell-stock-iii/) | Hard |
 | [0150-evaluate-reverse-polish-notation](https://github.com/ImAlokdeCoder/LeetCode/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0189-rotate-array](https://github.com/ImAlokdeCoder/LeetCode/tree/main/0189-rotate-array/) | Medium |
+| [0209-minimum-size-subarray-sum](https://github.com/ImAlokdeCoder/LeetCode/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0215-kth-largest-element-in-an-array](https://github.com/ImAlokdeCoder/LeetCode/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0268-missing-number](https://github.com/ImAlokdeCoder/LeetCode/tree/main/0268-missing-number/) | Easy |
 | [0300-longest-increasing-subsequence](https://github.com/ImAlokdeCoder/LeetCode/tree/main/0300-longest-increasing-subsequence/) | Medium |
@@ -265,12 +266,14 @@ Thank you for visiting my LeetCode Solutions repository! 🚀
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/ImAlokdeCoder/LeetCode/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/ImAlokdeCoder/LeetCode/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [2485-find-the-pivot-integer](https://github.com/ImAlokdeCoder/LeetCode/tree/main/2485-find-the-pivot-integer/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/ImAlokdeCoder/LeetCode/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
+| [0209-minimum-size-subarray-sum](https://github.com/ImAlokdeCoder/LeetCode/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0268-missing-number](https://github.com/ImAlokdeCoder/LeetCode/tree/main/0268-missing-number/) | Easy |
 | [0300-longest-increasing-subsequence](https://github.com/ImAlokdeCoder/LeetCode/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/ImAlokdeCoder/LeetCode/tree/main/0349-intersection-of-two-arrays/) | Easy |
@@ -279,6 +282,7 @@ Thank you for visiting my LeetCode Solutions repository! 🚀
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ImAlokdeCoder/LeetCode/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0209-minimum-size-subarray-sum](https://github.com/ImAlokdeCoder/LeetCode/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
