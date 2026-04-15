@@ -1,26 +1,18 @@
-class Solution(object):
-    def reverse(self, x):
-        """
-        :type x: int
-        :rtype: int
-        """
-        if x < 0:
-            sign = -1
-        else:
-            sign = 1
+class Solution:
+    def reverse(self, x: int) -> int:
 
-        x = abs(x)
+        sign = -1 if x < 0 else 1
+        temp = abs(x)
 
-        rev = 0
-        while x>0:
-            digit = x%10
-            rev = rev*10 + digit
-            x //= 10
-
-        rev = rev*sign
-
-        if rev > -2**31 and rev < 2**31 - 1:
-            return rev
-
-        return 0
+        new = 0
+        while temp > 0:
+            digit = temp%10
+            new = new * 10 + digit
+            temp //= 10
         
+        new = new * sign
+
+        if new < -2**31 or new > 2**31 - 1:
+            return 0
+
+        return new
