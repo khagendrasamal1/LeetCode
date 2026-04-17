@@ -43,6 +43,7 @@ Thank you for visiting my LeetCode Solutions repository! 🚀
 | [1071-greatest-common-divisor-of-strings](https://github.com/ImAlokdeCoder/LeetCode/tree/main/1071-greatest-common-divisor-of-strings/) | Easy |
 | [2185-counting-words-with-a-given-prefix](https://github.com/ImAlokdeCoder/LeetCode/tree/main/2185-counting-words-with-a-given-prefix/) | Easy |
 | [2351-first-letter-to-appear-twice](https://github.com/ImAlokdeCoder/LeetCode/tree/main/2351-first-letter-to-appear-twice/) | Easy |
+| [3541-find-most-frequent-vowel-and-consonant](https://github.com/ImAlokdeCoder/LeetCode/tree/main/3541-find-most-frequent-vowel-and-consonant/) | Easy |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -205,6 +206,7 @@ Thank you for visiting my LeetCode Solutions repository! 🚀
 | [2351-first-letter-to-appear-twice](https://github.com/ImAlokdeCoder/LeetCode/tree/main/2351-first-letter-to-appear-twice/) | Easy |
 | [2540-minimum-common-value](https://github.com/ImAlokdeCoder/LeetCode/tree/main/2540-minimum-common-value/) | Easy |
 | [2956-find-common-elements-between-two-arrays](https://github.com/ImAlokdeCoder/LeetCode/tree/main/2956-find-common-elements-between-two-arrays/) | Easy |
+| [3541-find-most-frequent-vowel-and-consonant](https://github.com/ImAlokdeCoder/LeetCode/tree/main/3541-find-most-frequent-vowel-and-consonant/) | Easy |
 | [3731-find-missing-elements](https://github.com/ImAlokdeCoder/LeetCode/tree/main/3731-find-missing-elements/) | Easy |
 ## Queue
 | Problem Name | Difficulty |
@@ -217,6 +219,7 @@ Thank you for visiting my LeetCode Solutions repository! 🚀
 | [0451-sort-characters-by-frequency](https://github.com/ImAlokdeCoder/LeetCode/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [0692-top-k-frequent-words](https://github.com/ImAlokdeCoder/LeetCode/tree/main/0692-top-k-frequent-words/) | Medium |
 | [2351-first-letter-to-appear-twice](https://github.com/ImAlokdeCoder/LeetCode/tree/main/2351-first-letter-to-appear-twice/) | Easy |
+| [3541-find-most-frequent-vowel-and-consonant](https://github.com/ImAlokdeCoder/LeetCode/tree/main/3541-find-most-frequent-vowel-and-consonant/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
