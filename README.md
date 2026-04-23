@@ -140,6 +140,7 @@ Thank you for visiting my LeetCode Solutions repository! 🚀
 | [1929-concatenation-of-array](https://github.com/ImAlokdeCoder/LeetCode/tree/main/1929-concatenation-of-array/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/ImAlokdeCoder/LeetCode/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2185-counting-words-with-a-given-prefix](https://github.com/ImAlokdeCoder/LeetCode/tree/main/2185-counting-words-with-a-given-prefix/) | Easy |
+| [2395-find-subarrays-with-equal-sum](https://github.com/ImAlokdeCoder/LeetCode/tree/main/2395-find-subarrays-with-equal-sum/) | Easy |
 | [2540-minimum-common-value](https://github.com/ImAlokdeCoder/LeetCode/tree/main/2540-minimum-common-value/) | Easy |
 | [2956-find-common-elements-between-two-arrays](https://github.com/ImAlokdeCoder/LeetCode/tree/main/2956-find-common-elements-between-two-arrays/) | Easy |
 | [3731-find-missing-elements](https://github.com/ImAlokdeCoder/LeetCode/tree/main/3731-find-missing-elements/) | Easy |
@@ -204,6 +205,7 @@ Thank you for visiting my LeetCode Solutions repository! 🚀
 | [1331-rank-transform-of-an-array](https://github.com/ImAlokdeCoder/LeetCode/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ImAlokdeCoder/LeetCode/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [2351-first-letter-to-appear-twice](https://github.com/ImAlokdeCoder/LeetCode/tree/main/2351-first-letter-to-appear-twice/) | Easy |
+| [2395-find-subarrays-with-equal-sum](https://github.com/ImAlokdeCoder/LeetCode/tree/main/2395-find-subarrays-with-equal-sum/) | Easy |
 | [2540-minimum-common-value](https://github.com/ImAlokdeCoder/LeetCode/tree/main/2540-minimum-common-value/) | Easy |
 | [2956-find-common-elements-between-two-arrays](https://github.com/ImAlokdeCoder/LeetCode/tree/main/2956-find-common-elements-between-two-arrays/) | Easy |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/ImAlokdeCoder/LeetCode/tree/main/3541-find-most-frequent-vowel-and-consonant/) | Easy |
