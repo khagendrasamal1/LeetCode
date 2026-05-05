@@ -116,6 +116,7 @@ Thank you for visiting my LeetCode Solutions repository! 🚀
 | [0042-trapping-rain-water](https://github.com/ImAlokdeCoder/LeetCode/tree/main/0042-trapping-rain-water/) | Hard |
 | [0053-maximum-subarray](https://github.com/ImAlokdeCoder/LeetCode/tree/main/0053-maximum-subarray/) | Medium |
 | [0088-merge-sorted-array](https://github.com/ImAlokdeCoder/LeetCode/tree/main/0088-merge-sorted-array/) | Easy |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/ImAlokdeCoder/LeetCode/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ImAlokdeCoder/LeetCode/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/ImAlokdeCoder/LeetCode/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/ImAlokdeCoder/LeetCode/tree/main/0123-best-time-to-buy-and-sell-stock-iii/) | Hard |
@@ -148,6 +149,7 @@ Thank you for visiting my LeetCode Solutions repository! 🚀
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0053-maximum-subarray](https://github.com/ImAlokdeCoder/LeetCode/tree/main/0053-maximum-subarray/) | Medium |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/ImAlokdeCoder/LeetCode/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0215-kth-largest-element-in-an-array](https://github.com/ImAlokdeCoder/LeetCode/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
@@ -310,6 +312,7 @@ Thank you for visiting my LeetCode Solutions repository! 🚀
 | ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/ImAlokdeCoder/LeetCode/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0102-binary-tree-level-order-traversal](https://github.com/ImAlokdeCoder/LeetCode/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/ImAlokdeCoder/LeetCode/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/ImAlokdeCoder/LeetCode/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0404-sum-of-left-leaves](https://github.com/ImAlokdeCoder/LeetCode/tree/main/0404-sum-of-left-leaves/) | Easy |
 ## Depth-First Search
@@ -323,6 +326,7 @@ Thank you for visiting my LeetCode Solutions repository! 🚀
 | ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/ImAlokdeCoder/LeetCode/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0102-binary-tree-level-order-traversal](https://github.com/ImAlokdeCoder/LeetCode/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/ImAlokdeCoder/LeetCode/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/ImAlokdeCoder/LeetCode/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0404-sum-of-left-leaves](https://github.com/ImAlokdeCoder/LeetCode/tree/main/0404-sum-of-left-leaves/) | Easy |
 ## Breadth-First Search
@@ -334,4 +338,8 @@ Thank you for visiting my LeetCode Solutions repository! 🚀
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0692-top-k-frequent-words](https://github.com/ImAlokdeCoder/LeetCode/tree/main/0692-top-k-frequent-words/) | Medium |
+## Binary Search Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/ImAlokdeCoder/LeetCode/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 <!---LeetCode Topics End-->
