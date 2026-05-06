@@ -315,6 +315,7 @@ Thank you for visiting my LeetCode Solutions repository! 🚀
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/ImAlokdeCoder/LeetCode/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/ImAlokdeCoder/LeetCode/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0404-sum-of-left-leaves](https://github.com/ImAlokdeCoder/LeetCode/tree/main/0404-sum-of-left-leaves/) | Easy |
+| [0701-insert-into-a-binary-search-tree](https://github.com/ImAlokdeCoder/LeetCode/tree/main/0701-insert-into-a-binary-search-tree/) | Medium |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -329,6 +330,7 @@ Thank you for visiting my LeetCode Solutions repository! 🚀
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/ImAlokdeCoder/LeetCode/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/ImAlokdeCoder/LeetCode/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0404-sum-of-left-leaves](https://github.com/ImAlokdeCoder/LeetCode/tree/main/0404-sum-of-left-leaves/) | Easy |
+| [0701-insert-into-a-binary-search-tree](https://github.com/ImAlokdeCoder/LeetCode/tree/main/0701-insert-into-a-binary-search-tree/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -342,4 +344,5 @@ Thank you for visiting my LeetCode Solutions repository! 🚀
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/ImAlokdeCoder/LeetCode/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
+| [0701-insert-into-a-binary-search-tree](https://github.com/ImAlokdeCoder/LeetCode/tree/main/0701-insert-into-a-binary-search-tree/) | Medium |
 <!---LeetCode Topics End-->
