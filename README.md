@@ -303,6 +303,7 @@ Thank you for visiting my LeetCode Solutions repository! 🚀
 | [0021-merge-two-sorted-lists](https://github.com/ImAlokdeCoder/LeetCode/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0141-linked-list-cycle](https://github.com/ImAlokdeCoder/LeetCode/tree/main/0141-linked-list-cycle/) | Easy |
 | [0206-reverse-linked-list](https://github.com/ImAlokdeCoder/LeetCode/tree/main/0206-reverse-linked-list/) | Easy |
+| [0237-delete-node-in-a-linked-list](https://github.com/ImAlokdeCoder/LeetCode/tree/main/0237-delete-node-in-a-linked-list/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
