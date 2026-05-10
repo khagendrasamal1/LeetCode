@@ -50,6 +50,7 @@ Thank you for visiting my LeetCode Solutions repository! 🚀
 | [0007-reverse-integer](https://github.com/ImAlokdeCoder/LeetCode/tree/main/0007-reverse-integer/) | Medium |
 | [0009-palindrome-number](https://github.com/ImAlokdeCoder/LeetCode/tree/main/0009-palindrome-number/) | Easy |
 | [0013-roman-to-integer](https://github.com/ImAlokdeCoder/LeetCode/tree/main/0013-roman-to-integer/) | Easy |
+| [0066-plus-one](https://github.com/ImAlokdeCoder/LeetCode/tree/main/0066-plus-one/) | Easy |
 | [0150-evaluate-reverse-polish-notation](https://github.com/ImAlokdeCoder/LeetCode/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0189-rotate-array](https://github.com/ImAlokdeCoder/LeetCode/tree/main/0189-rotate-array/) | Medium |
 | [0258-add-digits](https://github.com/ImAlokdeCoder/LeetCode/tree/main/0258-add-digits/) | Easy |
@@ -115,6 +116,7 @@ Thank you for visiting my LeetCode Solutions repository! 🚀
 | [0033-search-in-rotated-sorted-array](https://github.com/ImAlokdeCoder/LeetCode/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0042-trapping-rain-water](https://github.com/ImAlokdeCoder/LeetCode/tree/main/0042-trapping-rain-water/) | Hard |
 | [0053-maximum-subarray](https://github.com/ImAlokdeCoder/LeetCode/tree/main/0053-maximum-subarray/) | Medium |
+| [0066-plus-one](https://github.com/ImAlokdeCoder/LeetCode/tree/main/0066-plus-one/) | Easy |
 | [0088-merge-sorted-array](https://github.com/ImAlokdeCoder/LeetCode/tree/main/0088-merge-sorted-array/) | Easy |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/ImAlokdeCoder/LeetCode/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ImAlokdeCoder/LeetCode/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
