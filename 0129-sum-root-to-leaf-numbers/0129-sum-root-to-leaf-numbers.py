@@ -15,7 +15,10 @@ class Solution(object):
                 return 0
 
             num = num * 10 + root.val
-            if 
+            if root.left is None and root.right is None:
+                return num
+
+            return sumNum(root.left, num) + sumNum(root.right, num)
         return sumNum(root, 0)
 
         
