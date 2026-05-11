@@ -60,6 +60,7 @@ Thank you for visiting my LeetCode Solutions repository! 🚀
 | [0728-self-dividing-numbers](https://github.com/ImAlokdeCoder/LeetCode/tree/main/0728-self-dividing-numbers/) | Easy |
 | [1015-smallest-integer-divisible-by-k](https://github.com/ImAlokdeCoder/LeetCode/tree/main/1015-smallest-integer-divisible-by-k/) | Medium |
 | [1071-greatest-common-divisor-of-strings](https://github.com/ImAlokdeCoder/LeetCode/tree/main/1071-greatest-common-divisor-of-strings/) | Easy |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/ImAlokdeCoder/LeetCode/tree/main/1823-find-the-winner-of-the-circular-game/) | Medium |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/ImAlokdeCoder/LeetCode/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2427-number-of-common-factors](https://github.com/ImAlokdeCoder/LeetCode/tree/main/2427-number-of-common-factors/) | Easy |
 | [2469-convert-the-temperature](https://github.com/ImAlokdeCoder/LeetCode/tree/main/2469-convert-the-temperature/) | Easy |
@@ -80,6 +81,7 @@ Thank you for visiting my LeetCode Solutions repository! 🚀
 | [0021-merge-two-sorted-lists](https://github.com/ImAlokdeCoder/LeetCode/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0206-reverse-linked-list](https://github.com/ImAlokdeCoder/LeetCode/tree/main/0206-reverse-linked-list/) | Easy |
 | [0509-fibonacci-number](https://github.com/ImAlokdeCoder/LeetCode/tree/main/0509-fibonacci-number/) | Easy |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/ImAlokdeCoder/LeetCode/tree/main/1823-find-the-winner-of-the-circular-game/) | Medium |
 ## Memoization
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -89,6 +91,7 @@ Thank you for visiting my LeetCode Solutions repository! 🚀
 | ------- | ------- |
 | [0258-add-digits](https://github.com/ImAlokdeCoder/LeetCode/tree/main/0258-add-digits/) | Easy |
 | [1441-build-an-array-with-stack-operations](https://github.com/ImAlokdeCoder/LeetCode/tree/main/1441-build-an-array-with-stack-operations/) | Medium |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/ImAlokdeCoder/LeetCode/tree/main/1823-find-the-winner-of-the-circular-game/) | Medium |
 | [1929-concatenation-of-array](https://github.com/ImAlokdeCoder/LeetCode/tree/main/1929-concatenation-of-array/) | Easy |
 ## Number Theory
 | Problem Name | Difficulty |
@@ -140,6 +143,7 @@ Thank you for visiting my LeetCode Solutions repository! 🚀
 | [1441-build-an-array-with-stack-operations](https://github.com/ImAlokdeCoder/LeetCode/tree/main/1441-build-an-array-with-stack-operations/) | Medium |
 | [1470-shuffle-the-array](https://github.com/ImAlokdeCoder/LeetCode/tree/main/1470-shuffle-the-array/) | Easy |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/ImAlokdeCoder/LeetCode/tree/main/1502-can-make-arithmetic-progression-from-sequence/) | Easy |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/ImAlokdeCoder/LeetCode/tree/main/1823-find-the-winner-of-the-circular-game/) | Medium |
 | [1929-concatenation-of-array](https://github.com/ImAlokdeCoder/LeetCode/tree/main/1929-concatenation-of-array/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/ImAlokdeCoder/LeetCode/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2185-counting-words-with-a-given-prefix](https://github.com/ImAlokdeCoder/LeetCode/tree/main/2185-counting-words-with-a-given-prefix/) | Easy |
@@ -218,6 +222,7 @@ Thank you for visiting my LeetCode Solutions repository! 🚀
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/ImAlokdeCoder/LeetCode/tree/main/0387-first-unique-character-in-a-string/) | Easy |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/ImAlokdeCoder/LeetCode/tree/main/1823-find-the-winner-of-the-circular-game/) | Medium |
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
